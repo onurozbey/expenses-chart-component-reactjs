@@ -21,14 +21,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 body {
   background-color: var(--cream);
 }
@@ -41,12 +33,4 @@ h1,
 h2,
 h3 {
   color: var(--dark-brown);
-}
-
-.header-bg {
-  background-color: var(--soft-red);
-}
-
-canvas:hover {
-  cursor: pointer;
 }
